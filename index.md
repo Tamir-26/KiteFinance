@@ -37,5 +37,3 @@ This Privacy Policy may be updated if Kite Finance's functionality or data pract
 ## Contact
 
 If you have any questions about this Privacy Policy, you can contact the developer at:
-
-**[YOUR EMAIL ADDRESS]**
